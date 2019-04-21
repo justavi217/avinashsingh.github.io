@@ -1,2 +1,2 @@
-# avi.github.io
+# avisingh.github.io
 Portfolio Website
